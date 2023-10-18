@@ -8,5 +8,5 @@ Le type 1 s'exécute directement sur le matériel de l'hôte et le type 2 s'exé
 
 
 *Donnez-leur des cartes réseau NAT, et ⏹️ associez-leur les adresses IP 172.16.64.2 et 172.16.64.3.*
-![screen1](landing-vm1.pnj)
+![screen1](landing-vm1.png)
  
